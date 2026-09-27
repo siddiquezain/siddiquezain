@@ -7,7 +7,7 @@
 
 I build AI automation that works where people already are: on WhatsApp, in their own language, with a human one step away.
 
-- **Travel:** uilt an end-to-end sales automation pipeline for Origin Tours and Travels, capturing client inquiries, responding with live package information, qualifying leads, and automatically generating quotations to streamline the journey from inquiry to conversion.
+- **Travel:** Built an end-to-end sales automation pipeline for Origin Tours and Travels, capturing client inquiries, responding with live package information, qualifying leads, and automatically generating quotations to streamline the journey from inquiry to conversion.
 - **Clinics:** Built a WhatsApp-based AI booking assistant for clinics that handles patient inquiries, appointment scheduling, and routine interactions, reducing the manual workload and receptionist dependency.
 - **Expo Outreach:** Built a fully automated outreach and marketing system that streamlines lead collection, personalized communication, follow-ups, and campaign execution at scale.
 
