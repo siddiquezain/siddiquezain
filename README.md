@@ -7,9 +7,9 @@
 
 I build AI automation that works where people already are: on WhatsApp, in their own language, with a human one step away.
 
-- **Clinics:** a WhatsApp booking assistant that has served **1,400+ patients across 3 clinics** in Hyderabad.
-- **Travel:** the full sales pipeline for Origin Tours and Travels. Client inquiries are captured and answered from live package data, leads are qualified, and quotations are generated automatically.
-- **Next:** an AI receptionist for clinics, now in build.
+- **Travel:** uilt an end-to-end sales automation pipeline for Origin Tours and Travels, capturing client inquiries, responding with live package information, qualifying leads, and automatically generating quotations to streamline the journey from inquiry to conversion.
+- **Clinics:** Built a WhatsApp-based AI booking assistant for clinics that handles patient inquiries, appointment scheduling, and routine interactions, reducing the manual workload and receptionist dependency.
+- **Expo Outreach:** Built a fully automated outreach and marketing system that streamlines lead collection, personalized communication, follow-ups, and campaign execution at scale.
 
 Full-stack developer at Origin Softwares since 2024. Founder of a small AI automation practice for clinics and real-estate firms. B.E. CSE (AI & ML) at Lords Institute of Engineering and Technology, graduating 2028.
 
@@ -20,9 +20,9 @@ Full-stack developer at Origin Softwares since 2024. Founder of a small AI autom
 - **Custom CRMs and business systems** built at Origin Softwares, including a Property Management System where I led the intern QA team.
 - **Instagram DM handler** reusing the WhatsApp bot's design, so one system now serves a second channel.
 - **Bulk outreach automation** for the Hyderabad Education Expo.
-- **Meeting-intelligence CRM prototype** for a private-capital firm: turns call transcripts into action items and a brief before the next meeting.
+- **Meeting-intelligence CRM** for a private-capital firm: turns call transcripts into action items and a brief before the next meeting.
 - **Analytics audit** for a Saudi Shopify brand: found GA4 counting spurious pageviews and a revenue figure inflated by a test order.
-- **SEO/GEO content system** for Origin Tours, with pages structured so Google AI Overviews and chat assistants can quote them.
+- **SEO/GEO content system** for Origin Tours and Travels, with pages structured so Google AI Overviews and chat assistants can quote them.
 
 ### Open source
 
